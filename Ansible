@@ -3,15 +3,24 @@ Ansible Interview Questions
 
 1. What is  inventory file used for and default inventory host location?
 
-2. What is ansible configuration file used for and its default path?
+  The Ansible inventory file defines the hosts and groups of hosts upon which commands, modules, and tasks in a playbook operate. The file can be in one of many formats depending on your Ansible environment and plugins. The default location for the inventory file is /etc/ansible/hosts. If necessary, you can also create project-specific inventory files in alternate locations.
 
+2. What is ansible configuration file used for and its default path?
+  
+  If you want to modify some settings in ansible we will use ansible configuration file. The default path will be /etc/ansible/ansible.cfg
+  
 3. Do you write your inventory file?
+ Yes
 
 4. How many types of variables and precedence?
+
+There are almost 16 variable precedence in ansible where extra vars have highist precedence
 
 5. Write the command to find the python version on nodes?
 
 6. What is the file structure of ansible roles?
+
+  Ansible roles can be as complex or as simple as you need. Sometimes, it is helpful to start simple and iterate into a more complex role as you shore up the base functionality.
 
 7. What happen when one node or instance is unreachable?
 
