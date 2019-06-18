@@ -132,3 +132,5 @@ data with the EFS, NFS?
 24)	Why we need to use docker compose?
 
 25)	Tell me about Docker Network
+
+26) What is the difference between Docker Swarm ,Compose and Kubernetes ?
