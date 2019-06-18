@@ -54,3 +54,5 @@ HCL Interview Questions:
 11) git fetch ?
  
 12) git pull ?
+
+13) Difference between COPY and ADD in dockerfile ?
