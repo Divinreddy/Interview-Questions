@@ -31,3 +31,4 @@ find <path for directory> -size +1G -type f
 21. How can you know the execution time of a command?
 22. How can you append one file to another in  Linux?
 23. How you can run an Linux program in the background simultaneously when you start your Linux Server?
+24. How to check previous command is success or not ?
