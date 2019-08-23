@@ -210,3 +210,4 @@ Use Jenkins with POLL SCM option and after artifact is generated  using ansible 
 84 . BASH Vs Python Vs Configuration Management Tools?
 85.  How can you update a single table in a Database with ansible?
 86. What type of roles you used in your playbook explain ?
+87. How to create and use the Dynamic inventory ?
