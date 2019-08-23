@@ -134,3 +134,11 @@ data with the EFS, NFS?
 25)	Tell me about Docker Network
 
 26) What is the difference between Docker Swarm ,Compose and Kubernetes ?
+
+27) How does the containers communicate when the containers are running in different hosts?
+
+28) What is the difference between CMD and RUN 
+
+29) How can you transfer the data from one container to another ?
+
+
