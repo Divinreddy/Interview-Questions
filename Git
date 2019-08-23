@@ -53,3 +53,4 @@ What is the common branching pattern in GIT?
 52. with this kind of environment and the git release branching, does it work in Agile methodology?
 53. What is tagging in GIT and what is the diff between feature branching and tagging?
 54. How can you restrict a user to push the code to the repository only if the code does not meet the quality ?
+55. When will you perform Git rebase and git revert and git Merge ? Why?
