@@ -1,8 +1,18 @@
 # Interview-Questions
 AWS-Devops Questions
 
+What kind of instances have you created in AWS ?
+What is the context level cache in AWS ?
+What is NAT gate way and IGW ?
+How can you access data in AWS EBS ?
+How to configure SSL in ALB ?
+How to use Replica in S3 ?
+What is RDS?
+What is route table ?
+What is VPC ?
+What is the differences between Public and private subnets ?
+While you create Nat gateway which subnet do you use ? what are all the parameters do you consider ?
 How does the load balancer works ?
-
 How do you handle the point in spike ?
 
 
