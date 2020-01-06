@@ -166,7 +166,7 @@ Write ansible playbook for below tasks:
 * What are image layers ?
 * How image layers work ?
 * What is overlayfs ?
-* Where the image layes can be found in which directory ?
+* Where the image layers can be found in which directory ?
 * How can we check the content of each layer ?
 * How to check the layers stacked with image ?
 * What is Union Mount & AUFS ?
@@ -205,6 +205,8 @@ Write ansible playbook for below tasks:
 * What are registries ?
 * Difference between docker commands: up, run & start ?
 * Can we run more than one process in a container ?
+* How to remove a paticular layer from a container ?
+* Give me a command to remove all exited conatiners ?
 
 Docker Task
 Part 1. Write a Docker file to create a Docker image which should have Wordpress installed
@@ -221,6 +223,7 @@ Now, use Docker compose to bring up the above Docker images as containers. Datab
 * How to make quorum of cluster?
 * What is Replication controller & what it does ?
 * What is ingress ?
+* What is RBAC and how can you configure RBAC in a k8's Cluster ?
 * Difference between Kubernetes & Docker Swarm ?
 * How can you rollbck the previous version of application in Kuberntes?
 * Scenario: There are 2 tables, emp, empsal if there schema changes,
