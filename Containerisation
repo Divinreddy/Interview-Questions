@@ -25,7 +25,6 @@ Interview questions
 23)	Our applications are decentralized I don’t want distributed environment if any thing happens to the master all will collapse , can we create multiple masters?
 24)	What is the difference between kubectl and minikube?
 25)	If any container down in my cluster how you will rectify?
-
 26)	How can I print shell script name?
 
 Echo $0
@@ -140,5 +139,7 @@ data with the EFS, NFS?
 28) What is the difference between CMD and RUN 
 
 29) How can you transfer the data from one container to another ?
+
+30) How do you monitor your containerized applications?
 
 
